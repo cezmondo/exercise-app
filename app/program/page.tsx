@@ -35,6 +35,35 @@ export default function ProgramPage() {
         </ul>
       </section>
 
+      <section className="space-y-1.5 rounded-xl border border-border bg-surface p-3">
+        <h2 className="text-sm font-semibold text-foreground">Progressing after week 3</h2>
+        <ul className="list-disc space-y-1 pl-4 text-xs text-muted-foreground">
+          <li>
+            Strength moves: once you hit the top of the rep range on every set with good
+            form and 2+ reps left in the tank, add weight next session and let reps drop
+            back down — that dip is normal, it&apos;s how progression works.
+          </li>
+          <li>
+            Eccentric heel drops: once it feels easy, add a slower 3-4 count on the way
+            down every rep, or add light load — that&apos;s what actually speeds up
+            plantar fasciitis recovery, not just more reps.
+          </li>
+          <li>
+            Cardio: bump duration or pace only once the current session feels
+            comfortably easy, not on a fixed schedule.
+          </li>
+          <li>
+            Use the Progress tab as your signal: pain trend flat or improving, keep
+            progressing as above. Pain ticks up for more than a day or two after adding
+            load, drop back to the previous level for another week before retrying.
+          </li>
+          <li>
+            This is also the point to consider adding a 3rd resistance day if faster
+            muscle gain matters more to you than the current 2x/week minimum.
+          </li>
+        </ul>
+      </section>
+
       <section className="space-y-2">
         <h2 className="text-sm font-semibold text-foreground">Morning routine</h2>
         <p className="text-xs text-muted-foreground">Every day, before standing up</p>
